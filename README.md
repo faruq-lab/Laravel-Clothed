@@ -1,4 +1,4 @@
-# Used Items Advertising Website - Laravel Project
+# CLOTHED (Used Items Advertising Website) - Laravel Project
 
 This project is a web application developed using the Laravel framework, inspired by the **Traversy Media** YouTube channel tutorial. You can find the original tutorial [here](https://www.youtube.com/watch?v=MYyJ4PuL4pY). While the core foundation of this project is based on the tutorial, I have made several modifications and improvements to better suit the requirements and to enhance my understanding of Laravel.
 
